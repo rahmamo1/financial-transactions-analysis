@@ -19,6 +19,7 @@ The interactive dashboard includes:
 - Transaction volume and spending trends  
 - Merchant activity analysis  
 - Fraud risk indicators
+  
 🔗 [Financial Transactions Dashboard](https://app.powerbi.com/groups/me/reports/584cf774-a543-43a0-91bc-bccbbd96988f/1e4cafc2fca13d713286?bookmarkGuid=1dc88edc-9c99-4366-8af1-5f134fa706b9&bookmarkUsage=1&ctid=aadc0e0a-65ee-471a-99a1-9f86faecbaed&portalSessionId=7d88449e-720c-4b88-8da2-886b3e4ffebd&fromEntryPoint=export)
 
 ---
